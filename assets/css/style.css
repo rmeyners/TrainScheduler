@@ -1,0 +1,24 @@
+.jumbotron{
+	text-align: center;
+	background-color: chocolate !important;
+	color: white !important;
+}
+
+#panel-heading-schedule{
+	background-color: lightblue;
+	color: white;
+}
+
+
+#panel-heading-form{
+	background-color: lightblue;
+	color: white;
+}
+
+table{
+	padding:10px;
+}
+
+form{
+	padding: 10px;
+}
